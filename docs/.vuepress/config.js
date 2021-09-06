@@ -15,7 +15,7 @@ module.exports = {
     search: true,
     searchMaxSuggestions: 10,
     lastUpdated: true,
-    sidebarDepth:2,
+    sidebarDepth:3,
   },
 
 }
